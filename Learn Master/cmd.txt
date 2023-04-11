@@ -58,4 +58,4 @@ class - là thuộc tính dùng để sử dụng các class cho thẻ sau đó 
 - 'inline' : Biến thành thẻ inline -> nó sẽ bị hạn chế vài thuộc tính CSS liên quan tới box-sizing như là padding-top, padding-, margin-top
 - 'inline-block' : Biến thành thẻ block-inline -> là sự kết hợp giữa inline và block, khi các thẻ có thuộc tính inline-block nó sẽ kế thừa đặc tính của inline tức là nằm cạnh nhau thì sẽ nằm trên 1 hàng, có độ rộng bằng nội dung mà nó chứa không bị hạn chế CSS
 - 'none' : Ẩn luôn, không thấy không nhấn được
--'flex': askdjbajshd
+-'flex': 
